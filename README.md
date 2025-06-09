@@ -1,7 +1,7 @@
 # Docker-compose
 Group B project task
 
-✅WEEK 3 MENTORSHIP PROJECT BY GROUP B TEAM
+✅WEEK 4 MENTORSHIP PROJECT BY GROUP B TEAM
 
 ✅GROUP B TEAM: Fagoroye Sanumi O.
                  & Lawal Jonathan
